@@ -1,0 +1,38 @@
+h1 {
+    color: #b31942;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    font-family: Calibri;
+}
+
+h2 {
+    font-family: Calibri;
+    padding-left: 40px;
+}
+
+a {
+    font-family: Calibri;
+    color: #fff;
+}
+
+p {
+    font-family: Calibri;
+    padding-left: 40px;
+}
+
+ul {
+    padding-left: 40px;
+}
+
+li {
+    font-family: Calibri;
+}
+
+img {
+    padding-left: 40px;
+}
+
+.navbar {
+    color: #0a3161
+}
